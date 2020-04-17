@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+<span id="pageBackground" class="error-page-background"></span>
+<div id="error404page" class="page-body">
+
+  <div class="container">
+    <div class="error-404page page-wrap col-md-10 offset-md-1">
+
+      <div class="row">
+        <div class="col">
+          <h1>404</h1>
+<h2>Page not found</h2>
+<p>Our apologies, the page you requested could not be found.<br>Consider visiting one of the related pages below:<p>
+  <ul>
+    <li><a href="{{ "about" | relURL }}">About Us</a></li>
+    <li><a href="{{ "contact-us" | relURL }}">Contact Us</a></li>
+    <li><a href="#">Begin Loan Application</a></li>
+    <li><a href="{{ "/installment-loans" | relURL }}">Signature Installment Loans</a></li>
+    <li><a href="{{ "/registration-loans" | relURL }}">Registration Loans</a></li>
+    <li><a href="{{ "/line-of-credit" | relURL }}">Line of Credit</a></li>
+    <li><a href="https://epaymyloan.com" target="_blank">Make A Payment</a></li>
+  </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /#error404page -->
+
+{{ end }}
