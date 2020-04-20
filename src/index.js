@@ -2,7 +2,7 @@
 console.log("Javascript Loaded");
 
 //*** Imports ***//
-// import "./css/main.scss";
+import "./css/main.scss";
 
 
 import "./js/globleFunctions.js";
