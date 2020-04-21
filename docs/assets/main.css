@@ -285,7 +285,7 @@ footer #social-links img {
 /*Pages*/
 /*** Index Page ***/
 .index-page-background {
-  background-image: url("/sfl-v2/img/index-hero.jpg");
+  background-image: url("img/index-hero.jpg");
   min-height: 50em;
   background-position: center center !important;
 }
@@ -480,7 +480,7 @@ footer #social-links img {
 }
 
 #indexpage .slf-benefits {
-  background-image: url("/sfl-v2/img/benefits-bg.jpg");
+  background-image: url("img/benefits-bg.jpg");
   background-repeat: no-repeat;
   background-position: top right;
   background-color: #fff;
@@ -512,7 +512,7 @@ footer #social-links img {
 }
 
 #indexpage .need-cash {
-  background-image: url("/sfl-v2/img/cash-bg.jpg");
+  background-image: url("img/cash-bg.jpg");
   text-align: center;
   color: #fefefe;
   padding-top: 3em;
@@ -539,7 +539,7 @@ footer #social-links img {
 
 /*** 404 Page ***/
 .error-page-background {
-  background-image: url("/sfl-v2/img/404-error-hero.jpg");
+  background-image: url("img/404-error-hero.jpg");
 }
 
 #error404page {
@@ -573,7 +573,7 @@ footer #social-links img {
 
 /*** About Page ***/
 .about-background {
-  background-image: url("/sfl-v2/img/about-hero.jpg");
+  background-image: url("img/about-hero.jpg");
 }
 
 #about h1 {
@@ -699,7 +699,7 @@ footer #social-links img {
 }
 
 .complete {
-  background-image: url("/sfl-v2/img/check_circle-white-24dp.svg");
+  background-image: url("img/check_circle-white-24dp.svg");
   background-repeat: no-repeat;
   background-size: 2em;
   background-position-y: center;
@@ -724,12 +724,12 @@ footer #social-links img {
 
 /*** Consumer Disclosures ***/
 #consumerDisclosures {
-  background-image: url("/sfl-v2/img/consumer-disclosures-hero.jpg");
+  background-image: url("img/consumer-disclosures-hero.jpg");
 }
 
 /*** Count Us Page ***/
 .contact-us-background {
-  background-image: url("/sfl-v2/img/contact-us-hero.jpg");
+  background-image: url("img/contact-us-hero.jpg");
 }
 
 #contactUs {
@@ -827,7 +827,7 @@ footer #social-links img {
 }
 
 .installment-loans-background {
-  background-image: url("/sfl-v2/img/installment-loans-hero.jpg");
+  background-image: url("img/installment-loans-hero.jpg");
 }
 
 #registrationLoans h1 {
@@ -841,11 +841,11 @@ footer #social-links img {
 }
 
 .registration-loans-background {
-  background-image: url("/sfl-v2/img/registration-loans-hero.jpg");
+  background-image: url("img/registration-loans-hero.jpg");
 }
 
 .line-of-credit-background {
-  background-image: url("/sfl-v2/img/line-of-credit-hero.jpg");
+  background-image: url("img/line-of-credit-hero.jpg");
 }
 
 /*Helpers*/
@@ -862,7 +862,7 @@ footer #social-links img {
 }
 
 .cirle-list-style ul {
-  list-style: url("/sfl-v2/img/check_circle-blue-24dp.svg");
+  list-style: url("img/check_circle-blue-24dp.svg");
 }
 
 .inactiveLink {
@@ -875,28 +875,28 @@ footer #social-links img {
 }
 
 .date-field {
-  background-image: url("/sfl-v2/img/calendar_today-black-24dp.svg");
+  background-image: url("img/calendar_today-black-24dp.svg");
   background-repeat: no-repeat;
   background-position-y: center;
   background-position-x: right 1em;
 }
 
 .phone-field {
-  background-image: url("/sfl-v2/img/phone-black-24dp.svg");
+  background-image: url("img/phone-black-24dp.svg");
   background-repeat: no-repeat;
   background-position-y: center;
   background-position-x: right 1em;
 }
 
 .field-hidden {
-  background-image: url("/sfl-v2/img/visibility_off-black-24dp.svg");
+  background-image: url("img/visibility_off-black-24dp.svg");
   background-repeat: no-repeat;
   background-position-y: center;
   background-position-x: right 1em;
 }
 
 .field-shown {
-  background-image: url("/sfl-v2/img/visibility-black-24dp.svg");
+  background-image: url("img/visibility-black-24dp.svg");
   background-repeat: no-repeat;
   background-position-y: center;
   background-position-x: right 1em;
