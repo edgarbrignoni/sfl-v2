@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Simple Fast Loans</title>
-    <link>/</link>
-    <description>Recent content on Simple Fast Loans</description>
+    <title>Blog on Simple Fast Loans</title>
+    <link>/blog/</link>
+    <description>Recent content in Blog on Simple Fast Loans</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2020 09:54:58 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2020 10:03:19 -0400</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -48,24 +48,6 @@ This sentence will be swapped out with actual content before the web page is sho
       
       <guid>/blog/blog-test/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Mon, 20 Apr 2020 09:54:58 -0400</pubDate>
-      
-      <guid>/about/</guid>
-      <description> About Page </description>
-    </item>
-    
-    <item>
-      <title>Apply</title>
-      <link>/apply/</link>
-      <pubDate>Wed, 01 Jan 2020 19:02:50 -0700</pubDate>
-      
-      <guid>/apply/</guid>
-      <description>Apply for your loanAbout YouYour FinancesDisclosure StatementLet&#39;s start by getting to know youTell us a little bit more about yourselfOffer Promo CodeAre you active military?Select OptionYesNoFirst NameLast NameDate of BirthSSNReenter SSNShow SSN NumberID TypeSelect OptionDriver&#39;s LicenseState IDPassportMilitary IDID NumberHow can we reach you?</description>
     </item>
     
   </channel>

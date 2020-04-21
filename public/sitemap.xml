@@ -3,12 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/apply/</loc>
-    <lastmod>2020-01-01T19:02:50-07:00</lastmod>
+    <loc>/blog/blog3/</loc>
+    <lastmod>2020-04-20T11:37:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/blog2/</loc>
+    <lastmod>2020-04-20T11:37:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/blog1/</loc>
+    <lastmod>2020-04-20T11:36:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2020-04-20T10:03:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/blog-test/</loc>
+    <lastmod>2020-04-20T09:58:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2020-04-20T09:54:58-04:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-04-20T09:54:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/apply/</loc>
     <lastmod>2020-01-01T19:02:50-07:00</lastmod>
   </url>
   
