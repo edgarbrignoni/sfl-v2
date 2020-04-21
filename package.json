@@ -4,8 +4,7 @@
   "description": "Update to SFL",
   "main": "index.js",
   "scripts": {
-    "start": "webpack --mode=development",
-    "dev": "webpack --mode=development --watch",
+    "start": "webpack --mode=development --watch",
     "build": "webpack --mode=production"
   },
   "repository": {
@@ -20,20 +19,7 @@
   },
   "homepage": "https://github.com/mjpalestina/sfl-v2#readme",
   "devDependencies": {
-    "@babel/core": "^7.9.0",
-    "@babel/preset-env": "^7.9.5",
-    "assets-webpack-plugin": "^3.9.12",
-    "babel-loader": "^8.1.0",
-    "clean-webpack-plugin": "^3.0.0",
-    "copy-webpack-plugin": "^5.1.1",
-    "core-js": "^3.6.5",
-    "css-loader": "^3.5.2",
-    "mini-css-extract-plugin": "^0.9.0",
-    "node-sass": "^4.13.1",
-    "sass-loader": "^8.0.2",
-    "style-loader": "^1.1.4",
     "webpack": "^4.42.1",
-    "webpack-cli": "^3.3.11",
-    "webpack-merge": "^4.2.2"
+    "webpack-cli": "^3.3.11"
   }
 }
